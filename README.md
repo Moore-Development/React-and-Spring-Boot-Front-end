@@ -1,3 +1,5 @@
+This repository contains the FRONT-END project code from the Udemy Full-stack with React and Spring Boot Course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
